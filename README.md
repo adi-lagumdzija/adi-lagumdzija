@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 const adi = {
   fullname: "Adi Lagumdžija",
   hometown: "Sarajevo",
-  code: [HTML, CSS, JS, Node.js, React.js, Java, Python, PHP],
+  code: [HTML, CSS, JavaScript, Node, React, Java, Python, PHP],
   databases: [MySQL, MongoDB],
   tools: ["Github", "Figma", "AdobeXD", "Microsoft Office", "Insomnia", "Postman", "DaVinci Resolve"],
   hobbies : ["water polo", "football", "movies", "gaming"]
