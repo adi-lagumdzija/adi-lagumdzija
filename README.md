@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://media.giphy.com/media/9rhNJScGSlneHpLtnz/giphy.gif?cid=ecf05e476rvg96xbi3d1084k4gjwawaqkyjx3gfawd4xp7cr&rid=giphy.gif&ct=g" width="50"> A little more about me
 ```javascript
 const adi = {
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  fullname: "Adi Lagumdžija"
+  hometown: "Sarajevo"
+  code: [HTML, CSS, JS, Node.js, React.js, Java, Python, PHP],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
