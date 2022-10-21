@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/hussainweb/)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/hussain.web/)
 
-<img src="https://media.giphy.com/media/9rhNJScGSlneHpLtnz/giphy.gif?cid=ecf05e476rvg96xbi3d1084k4gjwawaqkyjx3gfawd4xp7cr&rid=giphy.gif&ct=g" width="50"> A little more about me
+<img src="https://media.giphy.com/media/9rhNJScGSlneHpLtnz/giphy.gif?cid=ecf05e476rvg96xbi3d1084k4gjwawaqkyjx3gfawd4xp7cr&rid=giphy.gif&ct=g" width="50" margin-top="10px"> A little more about me
 ```javascript
 const adi = {
   fullname: "Adi Lagumdžija",
