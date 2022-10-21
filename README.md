@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 ---
 
 <img src="https://media.giphy.com/media/9rhNJScGSlneHpLtnz/giphy.gif?cid=ecf05e476rvg96xbi3d1084k4gjwawaqkyjx3gfawd4xp7cr&rid=giphy.gif&ct=g" width="50"> 
+
 ```javascript
 const adi = {
   hometown: "Sarajevo",
