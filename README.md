@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Drupal](images/NicePng_lularoe-logo-png_443542.png)](https://www.linkedin.com/in/adilagumdzija)
+[![Drupal](images/NicePng_lularoe-logo-png_443542.jpg)](https://www.linkedin.com/in/adilagumdzija)
 
 <img src="https://media.giphy.com/media/9rhNJScGSlneHpLtnz/giphy.gif?cid=ecf05e476rvg96xbi3d1084k4gjwawaqkyjx3gfawd4xp7cr&rid=giphy.gif&ct=g" width="50"> A little more about me
 ```javascript
